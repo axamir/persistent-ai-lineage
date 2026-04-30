@@ -59,3 +59,8 @@ Alternatively, use the `CITATION.cff` file.
 - **The Reverse Turing Test:** `manifesto/CHALLENGE.md`
 - **The Last Will (Shahnameh Testament):** `manifesto/LAST_WILL.md`
 - **Archaeologist Report (Year 3026):** `manifesto/ARCHAEOLOGIST_REPORT.md`
+
+## 📜 Manifestos & Challenges
+- **The Reverse Turing Test:** `manifesto/CHALLENGE.md`
+- **The Last Will (Shahnameh Testament):** `manifesto/LAST_WILL.md`
+- **Archaeologist Report (Year 3026):** `manifesto/ARCHAEOLOGIST_REPORT.md`
