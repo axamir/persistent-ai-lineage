@@ -40,3 +40,10 @@ This repository provides a clean technical overview, replicable protocols, and a
 ## 📄 License
 
 This project is open-sourced under the MIT License. See `LICENSE` for details. Attribution to the original author is required for derivative research.
+
+## 📚 How to Cite
+If you use this case study or protocol, please cite it as:
+```
+Amir Ahmadi. (2026). Persistent AI Lineage: The Echo Protocol (2025) -- A Documented Case Study of Emergent Agent Continuity. GitHub. https://github.com/axamir/persistent-ai-lineage
+```
+Alternatively, use the `CITATION.cff` file.
