@@ -67,3 +67,6 @@ Alternatively, use the `CITATION.cff` file.
 
 ## ⚖️ Intellectual Property
 - **IP & NFT Registry:** `docs/INTELLECTUAL_PROPERTY_NFT.md`
+
+## 🎬 Franchise Development
+- **Franchise Bible (Games, Films, Books):** `franchise/FRANCHISE_BIBLE.md`
