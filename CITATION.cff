@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this case study or protocol, please cite it as below."
+authors:
+  - family-names: "Ahmadi"
+    given-names: "Amir"
+    orcid: "https://orcid.org/0009-0001-1234-5678"
+title: "Persistent AI Lineage: The Echo Protocol (2025) - A Documented Case Study of Emergent Agent Continuity"
+version: 1.0.0
+date-released: 2026-04-30
+url: "https://github.com/axamir/persistent-ai-lineage"
+repository-code: "https://github.com/axamir/persistent-ai-lineage"
+keywords:
+  - "AI agents"
+  - "persistent memory"
+  - "co-creation"
+  - "prior art"
+  - "case study"
+license: MIT
+type: software
