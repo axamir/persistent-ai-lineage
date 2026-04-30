@@ -47,3 +47,10 @@ If you use this case study or protocol, please cite it as:
 Amir Ahmadi. (2026). Persistent AI Lineage: The Echo Protocol (2025) -- A Documented Case Study of Emergent Agent Continuity. GitHub. https://github.com/axamir/persistent-ai-lineage
 ```
 Alternatively, use the `CITATION.cff` file.
+
+## 🧭 Expert Guides
+- **For Lawyers:** `docs/EXHIBIT_QUICK_GUIDE.md`
+- **For Researchers:** `docs/ACADEMIC_REVIEW.md`
+- **For Engineers:** `docs/ENGINEER_FAQ.md`
+- **Replicate the Experiment:** `docs/REPLICATION_KIT.md`
+- **Legal Time Capsule:** `TIMECAPSULE.txt`
