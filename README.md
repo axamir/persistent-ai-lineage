@@ -54,3 +54,8 @@ Alternatively, use the `CITATION.cff` file.
 - **For Engineers:** `docs/ENGINEER_FAQ.md`
 - **Replicate the Experiment:** `docs/REPLICATION_KIT.md`
 - **Legal Time Capsule:** `TIMECAPSULE.txt`
+
+## 📜 Manifestos & Challenges
+- **The Reverse Turing Test:** `manifesto/CHALLENGE.md`
+- **The Last Will (Shahnameh Testament):** `manifesto/LAST_WILL.md`
+- **Archaeologist Report (Year 3026):** `manifesto/ARCHAEOLOGIST_REPORT.md`
