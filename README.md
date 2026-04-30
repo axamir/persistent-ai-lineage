@@ -70,3 +70,6 @@ Alternatively, use the `CITATION.cff` file.
 
 ## 🎬 Franchise Development
 - **Franchise Bible (Games, Films, Books):** `franchise/FRANCHISE_BIBLE.md`
+
+## 🎬 Franchise Development
+- **Franchise Bible (Games, Films, Books):** `franchise/FRANCHISE_BIBLE.md`
