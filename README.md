@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social-preview.jpg" alt="Persistent AI Lineage — The Echo Protocol" width="100%">
+</p>
+
 # Persistent AI Lineage: The Echo Protocol (2025)
 
 ![Status](https://img.shields.io/badge/status-live%20case%20study-blue)
